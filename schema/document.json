@@ -1,0 +1,101 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+        "document": {"$ref": "#/definitions/document_type"}
+    },
+    "definitions": {
+        "publisher_type": {
+            "type": "object",
+            "properties": {
+                "type": {
+                    "type": "string",
+                    "examples": ["other"],
+                    "default": ""
+                }
+            }
+        },
+        "revision_history_type": {
+            "type": "array",
+            "minItems": 0,
+            "items": {
+                "type": "object",
+                "properties": {
+                    "number": {
+                        "type": "string",
+                        "examples": ["31.0"],
+                        "default": ""
+                    },
+                    "date": {
+                        "type": "string",
+                        "examples": ["1257-08-15T08:58:09Z"],
+                        "default": ""
+                    },
+                    "description": {
+                        "type": "string",
+                        "examples": ["jNdROIfcSVuRqXD"],
+                        "default": ""
+                    }
+                },
+                "required": [
+                    "date",
+                    "number",
+                    "description"
+                ]
+            }
+        },
+        "tracking_type": {
+            "type": "object",
+            "properties": {
+                "id": {
+                    "type": "string",
+                    "examples": ["jNY"],
+                    "default": ""
+                },
+                "current_release_date": {
+                    "type": "string",
+                    "examples": ["1510-10-16T17:25:25Z"],
+                    "default": ""
+                },
+                "initial_release_date": {
+                    "type": "string",
+                    "examples": ["1630-07-19T09:41:24Z"],
+                    "default": ""
+                },
+                "revision_history": {"$ref": "#/definitions/revision_history_type"},
+                "status": {
+                    "type": "string",
+                    "examples": ["interim"],
+                    "default": ""
+                },
+                "version": {
+                    "type": "string",
+                    "examples": ["0.5.0"],
+                    "default": ""
+                }
+            }
+        },
+        "document_type": {
+            "type": "object",
+            "properties": {
+                "csaf_version": {
+                    "type": "string",
+                    "examples": ["2.0"],
+                    "default": ""
+                },
+                "publisher": {"$ref": "#/definitions/publisher_type"},
+                "title": {
+                    "type": "string",
+                    "examples": ["o"],
+                    "default": ""
+                },
+                "tracking": {"$ref": "#/definitions/tracking_type"},
+                "type": {
+                    "type": "string",
+                    "examples": ["NyUoHuYlN"],
+                    "default": ""
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "document": {
+        "csaf_version": "2.0",
+        "publisher": {"type": "other"},
+        "title": "o",
+        "tracking": {
+            "id": "jNY",
+            "current_release_date": "1510-10-16T17:25:25Z",
+            "initial_release_date": "1630-07-19T09:41:24Z",
+            "revision_history": [
+                {
+                    "number": "31.0",
+                    "date": "1257-08-15T08:58:09Z",
+                    "description": "jNdROIfcSVuRqXD"
+                },
+                {
+                    "number": "0",
+                    "date": "1829-04-24T18:16:59Z",
+                    "description": "GGOWZlRgL"
+                },
+                {
+                    "number": "3.0.70",
+                    "date": "1798-04-09T08:21:06Z",
+                    "description": "sOJibscdMDtdSVtQehDH"
+                },
+                {
+                    "number": "0",
+                    "date": "1101-09-25T23:32:21Z",
+                    "description": "hqvbsRgEFQItGh"
+                }
+            ],
+            "status": "interim",
+            "version": "0.5.0"
+        },
+        "type": "NyUoHuYlN"
+    }
+}
