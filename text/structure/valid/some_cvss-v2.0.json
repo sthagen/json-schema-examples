@@ -1,0 +1,21 @@
+{
+    "version": "2.0",
+    "vectorString": "AC:L",
+    "accessVector": "LOCAL",
+    "accessComplexity": "LOW",
+    "authentication": "NONE",
+    "confidentialityImpact": "COMPLETE",
+    "integrityImpact": "COMPLETE",
+    "availabilityImpact": "NONE",
+    "baseScore": 5,
+    "exploitability": "FUNCTIONAL",
+    "remediationLevel": "TEMPORARY_FIX",
+    "reportConfidence": "UNCORROBORATED",
+    "temporalScore": 2,
+    "collateralDamagePotential": "HIGH",
+    "targetDistribution": "NOT_DEFINED",
+    "confidentialityRequirement": "LOW",
+    "integrityRequirement": "MEDIUM",
+    "availabilityRequirement": "HIGH",
+    "environmentalScore": 2
+}
