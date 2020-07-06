@@ -1,0 +1,1162 @@
+{
+  "vulnerabilities": [
+    {
+      "acknowledgments": [
+        {
+          "names": [
+            "ui",
+            "EiP",
+            "mToXTyRLUErWnqAfZhy",
+            "XSduFVuqYEp"
+          ],
+          "organizations": [
+            "P",
+            "ciYssvJdi",
+            "EMzmthvQjrpVF",
+            "YkDETqGBhZgWfnx",
+            "HrA"
+          ],
+          "description": "RaTGlnj",
+          "urls": [
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment"
+          ]
+        },
+        {
+          "names": [
+            "WEUfikMgnwIp",
+            "ybJ",
+            "xzsDYSUxkfYGTf"
+          ],
+          "organizations": [
+            "hCCdVN",
+            "rFraIXJcBmTeoBV",
+            "v",
+            "GZFqVuiUulNGv"
+          ],
+          "description": "hvIfbPglcazXjJ",
+          "urls": [
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment"
+          ]
+        },
+        {
+          "names": [
+            "pXwGYGjJ",
+            "vocdlAuGAdYdhCPpoxk",
+            "qXrwMTLar"
+          ],
+          "organizations": [
+            "WX",
+            "IBEjGTgEOVv",
+            "SabZfuVBPQWYTpbObm",
+            "sIyjO"
+          ],
+          "description": "mughCClcVv",
+          "urls": [
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment"
+          ]
+        },
+        {
+          "names": [
+            "FnIDNrSnikHuYGokLiGm",
+            "lVOv",
+            "OEzC",
+            "bBaydpCgtFmEHNMwL",
+            "GBkWKakdOvY"
+          ],
+          "organizations": [
+            "RuWcBrezhYvvDwMewvbH",
+            "jBhlYcixP",
+            "qhQaIos",
+            "PiKxzXKJ"
+          ],
+          "description": "IszfBUvrAudzqlyv",
+          "urls": [
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment"
+          ]
+        },
+        {
+          "names": [
+            "ygtKOy",
+            "eGOBwxZuRsFObvxiXi",
+            "WtRnpVzlepYYDzVdEJZ",
+            "yuqHibMzwHO",
+            "cFW",
+            "QNhKqiw"
+          ],
+          "organizations": [
+            "bPjrcqeeAHwDFNq",
+            "YnOSgwuumXQuv",
+            "LACV"
+          ],
+          "description": "ogn",
+          "urls": [
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment"
+          ]
+        },
+        {
+          "names": [
+            "tIGmzuq",
+            "hiGDsFguKWlFpIHh",
+            "rAXfpxtPmiTuDCfltk",
+            "pCQZEKDdiDx",
+            "pRFTPCIQRnsW",
+            "ipcagpFxozi"
+          ],
+          "organizations": [
+            "yhCKUt"
+          ],
+          "description": "mnmfz",
+          "urls": [
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment"
+          ]
+        }
+      ],
+      "cve": "CVE-6951-9095",
+      "cwe": {
+        "id": "CWE-2",
+        "description": "QXgIONNPEmMQOqKxy"
+      },
+      "scores": [
+        [],
+        {
+          "cvss_v20": {
+            "version": "2.0",
+            "vectorString": "RL:U/RL:OF",
+            "baseScore": 7
+          }
+        },
+        {
+          "cvss_v30": {
+            "version": "3.0",
+            "vectorString": "CVSS:3x0/MUI:X",
+            "baseScore": 10,
+            "baseSeverity": "NONE"
+          }
+        },
+        {
+          "cvss_v31": {
+            "version": "3.1",
+            "vectorString": "CVSS:3a1/E:H",
+            "baseScore": 2,
+            "baseSeverity": "NONE"
+          }
+        }
+      ],
+      "discovery_date": "1190-04-06T14:48:31Z",
+      "id": {
+        "system_name": "pBPmTfwcybJdLX",
+        "text": "LNzJ"
+      },
+      "involvements": [
+        {
+          "party": "other",
+          "status": "not_contacted"
+        },
+        {
+          "party": "user",
+          "status": "in_progress"
+        },
+        {
+          "party": "vendor",
+          "status": "disputed"
+        },
+        {
+          "party": "coordinator",
+          "status": "open"
+        },
+        {
+          "party": "other",
+          "status": "not_contacted"
+        }
+      ],
+      "notes": [
+        {
+          "type": "details",
+          "text": "ZlwLRZKXFuGLvdNF"
+        }
+      ],
+      "product_status": {
+        "fixed": [
+          "kE"
+        ],
+        "first_affected": [
+          "Qb",
+          "VpchROfjUrFAf",
+          "qQZe"
+        ],
+        "known_affected": [
+          "uHOGEMjJGDzWorUCRs",
+          "xgsygesjudbRuGuiLx",
+          "mYpLvKThKIR",
+          "cJQdgqXhQdjnLx",
+          "idMJQlGgNcoeAkiF",
+          "Fx"
+        ],
+        "known_not_affected": [
+          "MxRqO",
+          "bhTX",
+          "LIyUUsnq",
+          "qcIyEUWvDn"
+        ],
+        "first_fixed": [
+          "HuQWj",
+          "RRrzCI",
+          "iqwLIgGkGWJkPLUXYmk",
+          "cNpLnEUtaSioeLrF",
+          "IlqdEQmmgrIpd",
+          "KPrRtVmUnCBAavqtAoE"
+        ],
+        "recommended": [
+          "vyXAyR",
+          "jsFKSwG",
+          "uvpDP"
+        ],
+        "last_affected": [
+          "LfF",
+          "zDTwolizC",
+          "GbvDOeuRa",
+          "OdBBsPLxDXYlDepaABn",
+          "yBmZaFnYM"
+        ]
+      },
+      "references": [
+        {
+          "description": "oZXfYTyYDTfABPm",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "EOVrpZOfjUkuneQnrHYd",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "kXCvw",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "NvtJoNJL",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "CJBEC",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "xxGWoKDozCvHQL",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        }
+      ],
+      "release_date": "1593-07-15T22:56:39Z",
+      "remediations": [
+        {
+          "description": "WikHfptylRvvin",
+          "type": "vendor_fix"
+        }
+      ],
+      "system_name": "dqAAfg",
+      "threats": [
+        {
+          "type": "impact",
+          "description": "AVlYgnRRZuvDZyU"
+        }
+      ],
+      "title": "zjfTd"
+    },
+    {
+      "acknowledgments": [
+        {
+          "names": [
+            "HUtIoTIYv",
+            "AnFSVcZZqnNAyrgFDFZb",
+            "Uv",
+            "ikOJcRntVJkdPWT"
+          ],
+          "organizations": [
+            "TVqV"
+          ],
+          "description": "HYRMFXdd",
+          "urls": [
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment"
+          ]
+        }
+      ],
+      "cve": "CVE-3981-2266",
+      "cwe": {
+        "id": "CWE-1415",
+        "description": "TpGJDVrOWtjxGkHsS"
+      },
+      "scores": [
+        [
+          [
+            "jlwSXnefc",
+            "DEUQB",
+            "usjQYwMjZAlCS",
+            "vYb",
+            "mGXmjGUDRlBEwLqGTnq"
+          ],
+          [
+            "thvZ",
+            "ajlAgmidgmqeFK"
+          ]
+        ],
+        {
+          "cvss_v20": {
+            "version": "2.0",
+            "vectorString": "A:C",
+            "baseScore": 2
+          }
+        },
+        {
+          "cvss_v30": {
+            "version": "3.0",
+            "vectorString": "CVSS:3n0/AV:P",
+            "baseScore": 0,
+            "baseSeverity": "NONE"
+          }
+        },
+        {
+          "cvss_v31": {
+            "version": "3.1",
+            "vectorString": "CVSS:3p1/IR:H",
+            "baseScore": 8,
+            "baseSeverity": "MEDIUM"
+          }
+        }
+      ],
+      "discovery_date": "1947-12-10T05:31:45Z",
+      "id": {
+        "system_name": "I",
+        "text": "JpEItxAPjhznMfFN"
+      },
+      "involvements": [
+        {
+          "party": "other",
+          "status": "contact_accepted"
+        },
+        {
+          "party": "vendor",
+          "status": "contact_accepted"
+        }
+      ],
+      "notes": [
+        {
+          "type": "other",
+          "text": "gTcqdrKxTbhoxOgOQMFZ"
+        },
+        {
+          "type": "summary",
+          "text": "kfwbpnkwrGWBfpgNibXy"
+        }
+      ],
+      "product_status": {
+        "fixed": [
+          "fbUSMDAynEWvYv",
+          "eNpnwwycpbW",
+          "mNQsrwpiwWDh",
+          "lzoGxANEoMEKYKBolC",
+          "WlnxSLPDjconyZWNnpU"
+        ],
+        "first_affected": [
+          "qhRUNZZAHqnKrdzvJlW",
+          "ApRhh",
+          "vTKx",
+          "uWtAJSSwfYBOiba",
+          "UMvcyknCGYFHdKQnlN"
+        ],
+        "known_affected": [
+          "lgCejwMObJwnOHWZGSH",
+          "NjxkWaFbbqwGxstH",
+          "YdMtIlZp",
+          "FwLz"
+        ],
+        "known_not_affected": [
+          "XkCUNOcVQZWqNgbTGj",
+          "PTKuHVv",
+          "GafvBGTYATaEE",
+          "fj",
+          "YpjLClGwitvG"
+        ],
+        "first_fixed": [
+          "MbXWFpzyrvseP",
+          "gHbxXLrSZDyDtDUZ",
+          "dciNQXjCrPSjGb",
+          "yKUfxKNQJloIZqsLQaAU"
+        ],
+        "recommended": [
+          "aCLqpZkhFhUTANDZyR",
+          "GCONrAihYJ",
+          "xhxyDe",
+          "I",
+          "pYmMfOxoW"
+        ],
+        "last_affected": [
+          "teIWKysCmqlsUA",
+          "HQP"
+        ]
+      },
+      "references": [
+        {
+          "description": "fQmwcUnZtgEANhU",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "PTUdxVeO",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "x",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "iveDwsQp",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "axxqNK",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "PAAwuBKckkMsTauKtt",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        }
+      ],
+      "release_date": "1778-07-04T16:23:58Z",
+      "remediations": [
+        {
+          "description": "XyrhSlEMrLbA",
+          "type": "workaround"
+        }
+      ],
+      "system_name": "gNbhuJhcGwsWOumA",
+      "threats": [
+        {
+          "type": "target_set",
+          "description": "Jl"
+        },
+        {
+          "type": "exploit_status",
+          "description": "cdM"
+        }
+      ],
+      "title": "uNzJaYKHvc"
+    },
+    {
+      "acknowledgments": [
+        {
+          "names": [
+            "shbrz",
+            "RNBckHcAzxVIaLB"
+          ],
+          "organizations": [
+            "JMt"
+          ],
+          "description": "FNUUVflo",
+          "urls": [
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment"
+          ]
+        }
+      ],
+      "cve": "CVE-8539-4253",
+      "cwe": {
+        "id": "CWE-1",
+        "description": "uIrOmKHk"
+      },
+      "scores": [
+        [
+          [
+            "ojMLCEAIEQQUo",
+            "q",
+            "eJOzfDLCQOhQwoBbsDRa",
+            "gCsVVyyRzElmRAHwGhAw",
+            "JMqkrQoqwnsHwsDCFq"
+          ],
+          [
+            "TzrhDiXFxY"
+          ],
+          [
+            "YWnpMtoJDCp",
+            "KBxgNpkGOnrXfBsj",
+            "STCFwETbloLFafl"
+          ],
+          [
+            "dawLKuDgtDwwoe",
+            "atMESoRhoENnIeBiOC",
+            "YsZsMegkyuKMmAxsFy"
+          ]
+        ],
+        {
+          "cvss_v20": {
+            "version": "2.0",
+            "vectorString": "TD:N",
+            "baseScore": 7
+          }
+        },
+        {
+          "cvss_v30": {
+            "version": "3.0",
+            "vectorString": "CVSS:3x0/MAV:X",
+            "baseScore": 8,
+            "baseSeverity": "MEDIUM"
+          }
+        },
+        {
+          "cvss_v31": {
+            "version": "3.1",
+            "vectorString": "CVSS:3q1/RC:R",
+            "baseScore": 10,
+            "baseSeverity": "NONE"
+          }
+        }
+      ],
+      "discovery_date": "1113-04-24T23:00:12Z",
+      "id": {
+        "system_name": "zOuulqyyU",
+        "text": "XNBxjpynZWrRWDRRvgQi"
+      },
+      "involvements": [
+        {
+          "party": "user",
+          "status": "open"
+        },
+        {
+          "party": "user",
+          "status": "disputed"
+        },
+        {
+          "party": "coordinator",
+          "status": "in_progress"
+        },
+        {
+          "party": "coordinator",
+          "status": "disputed"
+        }
+      ],
+      "notes": [
+        {
+          "type": "faq",
+          "text": "lagE"
+        },
+        {
+          "type": "details",
+          "text": "OhbRzNGyAdURaWXR"
+        }
+      ],
+      "product_status": {
+        "fixed": [
+          "agXTniXlDgBeHf",
+          "kJWDJ",
+          "pBSwKLvXGgaskyP",
+          "Nc"
+        ],
+        "first_affected": [
+          "McrlqumsmC",
+          "IrXvWWhtErmJBFt",
+          "ZCAszu",
+          "riDgTglLGeYzVtDvMh"
+        ],
+        "known_affected": [
+          "GFXCZeoFipSU",
+          "RGoEBzoywMQ",
+          "OXwMT",
+          "iogCAXpU",
+          "aXHegywYsb",
+          "BnlEI"
+        ],
+        "known_not_affected": [
+          "nzxYpAkOFkXpBwddqBF",
+          "XwgCvELtLlaPOB"
+        ],
+        "first_fixed": [
+          "jMhGxAlzvLOi",
+          "nFXBxkyFmkdlfKmu",
+          "GtKboyOeAKWa",
+          "gmjgkqfXaio",
+          "syniL",
+          "eOdBhoRUEWCDRs"
+        ],
+        "recommended": [
+          "VmnoStcN",
+          "oK",
+          "JLCk",
+          "rIMlSKnYLQ",
+          "rF",
+          "tqnQhZPqUJZAXVtmCnKk"
+        ],
+        "last_affected": [
+          "l"
+        ]
+      },
+      "references": [
+        {
+          "description": "VpbMJIQNgrzABtKZcGW",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "SjxFSxQTiKiubpvkGqNz",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "TpiOKCluKvlFui",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "yZpbSBQrnPdO",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        }
+      ],
+      "release_date": "1391-04-09T07:36:40Z",
+      "remediations": [
+        {
+          "description": "nvjgAbXHtZEVhu",
+          "type": "workaround"
+        },
+        {
+          "description": "lMFYjjVFsKrgA",
+          "type": "vendor_fix"
+        },
+        {
+          "description": "HxbtVMDaArtFbw",
+          "type": "mitigation"
+        }
+      ],
+      "system_name": "sTGVvdtKtxbUfcmmX",
+      "threats": [
+        {
+          "type": "target_set",
+          "description": "qcslF"
+        },
+        {
+          "type": "impact",
+          "description": "zJcUOlLZISkFkj"
+        },
+        {
+          "type": "exploit_status",
+          "description": "RMNSqeSOQZvZkARCnqIw"
+        },
+        {
+          "type": "exploit_status",
+          "description": "CpamAYDqpVBzYww"
+        }
+      ],
+      "title": "WcJTRudYADFI"
+    },
+    {
+      "acknowledgments": [
+        {
+          "names": [
+            "owbDzlkcigTG"
+          ],
+          "organizations": [
+            "CEqHjiXyWzusdhl",
+            "sWqoPyELWvfzSGCBy",
+            "rYtR",
+            "KDvP",
+            "HXtcUesbcdTHeDCuAbyj"
+          ],
+          "description": "kjtSIx",
+          "urls": [
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment"
+          ]
+        },
+        {
+          "names": [
+            "YvGTuJkuWRvKCftIyQlb",
+            "H",
+            "YhILV"
+          ],
+          "organizations": [
+            "JnoFFZSJKS",
+            "BjPOBFWriUnkFBahzX",
+            "KjCtIAlMOiArfwtKmQk",
+            "WkmfxOKncnnsAofQLpG",
+            "abkUDKwoYAkgSRC"
+          ],
+          "description": "BgeO",
+          "urls": [
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment"
+          ]
+        },
+        {
+          "names": [
+            "nmsUNskDRuEw",
+            "ayJVmpr",
+            "nGlTWdYfMgOf",
+            "DhGyMEzZJSg",
+            "tDpJEPHlXWvNIan",
+            "WggNdufiSuGtXdWWWz"
+          ],
+          "organizations": [
+            "HW"
+          ],
+          "description": "VzCXZNzdFE",
+          "urls": [
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment"
+          ]
+        }
+      ],
+      "cve": "CVE-0319-1065",
+      "cwe": {
+        "id": "CWE-6121",
+        "description": "ObTruixDUcg"
+      },
+      "scores": [
+        [
+          [
+            "eOoeQWfMyIUOJuTwR",
+            "cgOhTUCKqlMS",
+            "TKzmVUsTBa",
+            "hhovTlJOANRMK",
+            "nREXUbrjmdFGKcWJZ",
+            "cfxpXiBkXyD"
+          ],
+          [
+            "gqXG",
+            "IwfxkwpYZdJnVee",
+            "paQGf",
+            "FYYeVxrZgBMmqJ",
+            "AClybQvMryDnNKeJpqt",
+            "eF"
+          ],
+          [
+            "fyCFMriyExk"
+          ],
+          [
+            "SiLjYWs",
+            "wZYvjadOvAqtxQGpgwJ",
+            "MsjLAkSgsALybUk",
+            "bHdxKitHXXIwi",
+            "wUdPEdGcBemZsM"
+          ]
+        ],
+        {
+          "cvss_v20": {
+            "version": "2.0",
+            "vectorString": "AR:L",
+            "baseScore": 1
+          }
+        },
+        {
+          "cvss_v30": {
+            "version": "3.0",
+            "vectorString": "CVSS:3b0/RL:T/AV:P",
+            "baseScore": 7,
+            "baseSeverity": "LOW"
+          }
+        },
+        {
+          "cvss_v31": {
+            "version": "3.1",
+            "vectorString": "CVSS:3p1/MAC:H",
+            "baseScore": 2,
+            "baseSeverity": "NONE"
+          }
+        }
+      ],
+      "discovery_date": "1071-10-26T20:46:57Z",
+      "id": {
+        "system_name": "uMOBOnAbwXawXOV",
+        "text": "UHETHMqTw"
+      },
+      "involvements": [
+        {
+          "party": "user",
+          "status": "not_contacted"
+        },
+        {
+          "party": "coordinator",
+          "status": "in_progress"
+        },
+        {
+          "party": "user",
+          "status": "in_progress"
+        },
+        {
+          "party": "discoverer",
+          "status": "completed"
+        },
+        {
+          "party": "other",
+          "status": "open"
+        },
+        {
+          "party": "other",
+          "status": "not_contacted"
+        }
+      ],
+      "notes": [
+        {
+          "type": "summary",
+          "text": "oEzKhQaOM"
+        },
+        {
+          "type": "summary",
+          "text": "oBv"
+        },
+        {
+          "type": "faq",
+          "text": "ygIGUisAHGfCyIIahz"
+        },
+        {
+          "type": "faq",
+          "text": "Jyr"
+        }
+      ],
+      "product_status": {
+        "fixed": [
+          "rqlJliVPheW",
+          "tzYAwRQIrWlhxUAM"
+        ],
+        "first_affected": [
+          "OQDXsVmrsryOzbd",
+          "jYgeqCkGWhqjsZrb",
+          "HHwqTsTmUPoL",
+          "WDrzZREePrn",
+          "FZNEanPLL",
+          "GhVOgLtYTKAT"
+        ],
+        "known_affected": [
+          "UsYLYqanr",
+          "paRxJHqySinZNYQCniIg",
+          "E",
+          "tchTmGeMemhuG"
+        ],
+        "known_not_affected": [
+          "UDISwwWijGKOA",
+          "xvCNpUUQEV",
+          "EVLudbFywNJ",
+          "dlyLTpGJnqc",
+          "NztLHHjgWlm",
+          "GcnICxMUik"
+        ],
+        "first_fixed": [
+          "fFKHVnMTLeKEfntw",
+          "UUMKb"
+        ],
+        "recommended": [
+          "VnBhPSqnoXPDMtzNMN"
+        ],
+        "last_affected": [
+          "VMuW",
+          "UgVEEKqxxiz"
+        ]
+      },
+      "references": [
+        {
+          "description": "jRHyYrXKs",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "cRwsYe",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "vrCPVNQK",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "CZi",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "yI",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "mpsAUCtkCb",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        }
+      ],
+      "release_date": "1650-02-01T21:50:22Z",
+      "remediations": [
+        {
+          "description": "CPhgKrSQYleVRh",
+          "type": "none_available"
+        },
+        {
+          "description": "nxHKrnKosMBDP",
+          "type": "will_not_fix"
+        },
+        {
+          "description": "HjOPmeUhitjwLQfcVZ",
+          "type": "workaround"
+        },
+        {
+          "description": "mGweFbXwCSYJETm",
+          "type": "none_available"
+        }
+      ],
+      "system_name": "oWsWuBaRurD",
+      "threats": [
+        {
+          "type": "impact",
+          "description": "PnloM"
+        },
+        {
+          "type": "target_set",
+          "description": "PmPCsxa"
+        },
+        {
+          "type": "exploit_status",
+          "description": "Nc"
+        },
+        {
+          "type": "exploit_status",
+          "description": "jrZFQmcMHo"
+        },
+        {
+          "type": "target_set",
+          "description": "AcwncvuRBxHwOzPaQp"
+        }
+      ],
+      "title": "pgYnB"
+    },
+    {
+      "acknowledgments": [
+        {
+          "names": [
+            "GDnFjfNgoZYfwy",
+            "Rj",
+            "cAJbAxZiiks",
+            "m",
+            "zAQ"
+          ],
+          "organizations": [
+            "OX"
+          ],
+          "description": "MUkBgWKtR",
+          "urls": [
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment",
+            "http://example.com/resource?foo=bar#fragment"
+          ]
+        }
+      ],
+      "cve": "CVE-3458-1820",
+      "cwe": {
+        "id": "CWE-3",
+        "description": "SnwJQNXlve"
+      },
+      "scores": [
+        [
+          [
+            "aafyPJcDoYTRfI",
+            "wCyOadlObTuuDoYgVM",
+            "QFgg",
+            "MmqTr",
+            "gDaqfsARrehrbrvm"
+          ],
+          [
+            "uWVg",
+            "TrVU",
+            "bLWohHfckM"
+          ]
+        ],
+        {
+          "cvss_v20": {
+            "version": "2.0",
+            "vectorString": "A:N/TD:N",
+            "baseScore": 5
+          }
+        },
+        {
+          "cvss_v30": {
+            "version": "3.0",
+            "vectorString": "CVSS:3h0/RC:R",
+            "baseScore": 6,
+            "baseSeverity": "MEDIUM"
+          }
+        },
+        {
+          "cvss_v31": {
+            "version": "3.1",
+            "vectorString": "CVSS:3u1/MUI:R",
+            "baseScore": 3,
+            "baseSeverity": "MEDIUM"
+          }
+        }
+      ],
+      "discovery_date": "1575-05-13T00:17:46Z",
+      "id": {
+        "system_name": "tZbOCyCHzvUcIhh",
+        "text": "uyxbJnmLpF"
+      },
+      "involvements": [
+        {
+          "party": "discoverer",
+          "status": "contact_accepted"
+        },
+        {
+          "party": "user",
+          "status": "open"
+        },
+        {
+          "party": "discoverer",
+          "status": "contact_accepted"
+        },
+        {
+          "party": "coordinator",
+          "status": "in_progress"
+        },
+        {
+          "party": "vendor",
+          "status": "contact_accepted"
+        }
+      ],
+      "notes": [
+        {
+          "type": "description",
+          "text": "dl"
+        },
+        {
+          "type": "other",
+          "text": "OCtNduOpo"
+        },
+        {
+          "type": "summary",
+          "text": "rrncNdcBgwStSR"
+        },
+        {
+          "type": "description",
+          "text": "TfbRl"
+        },
+        {
+          "type": "general",
+          "text": "zercthV"
+        }
+      ],
+      "product_status": {
+        "fixed": [
+          "YjkeQxca"
+        ],
+        "first_affected": [
+          "xUnramUjT",
+          "gtfzGKIUjNNVlKcs",
+          "niTajAEsdPFnqJKx"
+        ],
+        "known_affected": [
+          "CzerKYLjqwoveOthlwPL",
+          "d",
+          "bxyvbAqWejzhgbPj",
+          "HDx"
+        ],
+        "known_not_affected": [
+          "USKHXKHyLmmbrBaEZ",
+          "qXfp",
+          "TMZtfHUDvpLU",
+          "NUSFVdTTPjriKYBKPrU",
+          "UOZPxCw"
+        ],
+        "first_fixed": [
+          "fZp",
+          "XypIMeoCqRtEf"
+        ],
+        "recommended": [
+          "HXrYfYmS",
+          "vAfmuXxSBiivgNSw",
+          "kTDrhvLNglsKzhS",
+          "rCtEyNBzpkjX",
+          "iVC",
+          "XQhTpLIwx"
+        ],
+        "last_affected": [
+          "ZL",
+          "hlccyHuKlS"
+        ]
+      },
+      "references": [
+        {
+          "description": "PaslcRJGopiXNxEYXjRq",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "eyjHGsWiaDzMYngSjdFI",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "ZaMJuYjTncDntIz",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "efAa",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "A",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        },
+        {
+          "description": "BoRlb",
+          "url": "http://example.com/resource?foo=bar#fragment"
+        }
+      ],
+      "release_date": "1719-07-14T19:23:37Z",
+      "remediations": [
+        {
+          "description": "rrRLwfCDbSTBYWJvKBFN",
+          "type": "none_available"
+        },
+        {
+          "description": "dwzJYjvRcfL",
+          "type": "will_not_fix"
+        }
+      ],
+      "system_name": "TYqXpaehpXSqDpW",
+      "threats": [
+        {
+          "type": "exploit_status",
+          "description": "RhexUgIaAQG"
+        },
+        {
+          "type": "impact",
+          "description": "psUvknUqHavZToecgIXU"
+        },
+        {
+          "type": "target_set",
+          "description": "ZtxfzwSicsmyAwbwzF"
+        },
+        {
+          "type": "impact",
+          "description": "jWLtniWEeNhpLAP"
+        },
+        {
+          "type": "target_set",
+          "description": "nuRB"
+        },
+        {
+          "type": "exploit_status",
+          "description": "hbmZxG"
+        }
+      ],
+      "title": "BebRc"
+    }
+  ]
+}
