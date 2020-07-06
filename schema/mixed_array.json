@@ -1,0 +1,83 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "scores": {
+      "$ref": "#/definitions/scores_type"
+    }
+  },
+  "definitions": {
+    "qualitative_type": {
+      "type": "object",
+      "properties": {
+        "rough": {
+          "type": "string",
+          "examples": [
+            "A"
+          ],
+          "default": ""
+        },
+        "detailed": {
+          "type": "string",
+          "examples": [
+            "A+"
+          ],
+          "default": ""
+        },
+        "text": {
+          "type": "string",
+          "examples": [
+            "Alice, you did really well!"
+          ],
+          "default": ""
+        }
+      }
+    },
+    "quantitative_type": {
+      "type": "object",
+      "properties": {
+        "rough": {
+          "type": "number",
+          "default": 0
+        },
+        "detailed": {
+          "type": "number",
+          "default": 0
+        }
+      }
+    },
+    "scores_type": {
+      "type": "array",
+      "minItems": 0,
+      "items": [
+        {
+          "type": "array",
+          "minItems": 0,
+          "items": {
+            "type": "string",
+            "examples": [
+              "a"
+            ],
+            "default": ""
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "qualitative": {
+              "$ref": "#/definitions/qualitative_type"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "quantitative": {
+              "$ref": "#/definitions/quantitative_type"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

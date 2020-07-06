@@ -1,0 +1,22 @@
+{
+  "scores": [
+    [
+      "a",
+      "b",
+      "c"
+    ],
+    {
+      "qualitative": {
+        "rough": "A",
+        "detailed": "A+",
+        "text": "Alice, you did really well!"
+      }
+    },
+    {
+      "quantitative": {
+        "rough": 3.14,
+        "detailed": 3.1415
+      }
+    }
+  ]
+}
