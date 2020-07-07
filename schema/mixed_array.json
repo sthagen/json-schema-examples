@@ -51,33 +51,38 @@
       "minItems": 0,
       "items": [
         {
-          "type": "array",
-          "minItems": 0,
-          "items": {
-            "type": "string",
-            "examples": [
-              "a"
-            ],
-            "default": ""
-          }
-        },
-        {
-          "type": "object",
-          "properties": {
-            "qualitative": {
-              "$ref": "#/definitions/qualitative_type"
+          "anyOf": [
+            {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "examples": [
+                  "a"
+                ],
+                "default": ""
+              }
+            },
+            {
+              "type": "object",
+              "properties": {
+                "qualitative": {
+                  "$ref": "#/definitions/qualitative_type"
+                }
+              }
+            },
+            {
+              "type": "object",
+              "properties": {
+                "quantitative": {
+                  "$ref": "#/definitions/quantitative_type"
+                }
+              }
             }
-          }
-        },
-        {
-          "type": "object",
-          "properties": {
-            "quantitative": {
-              "$ref": "#/definitions/quantitative_type"
-            }
-          }
+          ]
         }
       ]
     }
   }
 }
+
